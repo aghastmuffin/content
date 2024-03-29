@@ -2,4 +2,5 @@
     "https://aghastmuffin.github.io/betagames/ac/tanuki_sunset/": "tanuki unset",
     "https://aghastmuffin.github.io/betagames/ac/slope": "slope",
     "https://aghastmuffin.github.io/betagames/ac/celeste": "celeste"
+    "https://ozh.github.io/cookieclicker/": "cookie clicker (NOT MERGED)"
 }
