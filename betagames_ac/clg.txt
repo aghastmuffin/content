@@ -1,0 +1,7 @@
+new in version B-0.1
+ * changed searching so if no term is provided, nothing shows up
+ * added settings:
+  *Notification
+  *Autosearch 
+ *added more background divs
+--End B-0.1--
